@@ -40,7 +40,7 @@ in another size, please, call the script `bin/firesafety`.
 
 ohne Batterie / without battery | mit Batterie / with battery | Notstrom / emergency power | Schwarzstartfähigkeit / black start
 --------------------------------|-----------------------------|----------------------------|------------------------------------
-![fire safety pv](photovoltaics/firesafety-pv.svg) | ![fire safety pv battery](photovoltaics/firesafety-pv-battery.svg) | ![fire safety pv](photovoltaics/firesafety-pv-emergency-power.svg) | ![fire safety pv](photovoltaics/firesafety-pv-black-start.svg)
+![fire safety pv](firesafety/firesafety-pv.svg) | ![fire safety pv battery](firesafety/firesafety-pv-battery.svg) | ![fire safety pv](firesafety/firesafety-pv-emergency-power.svg) | ![fire safety pv](firesafety/firesafety-pv-black-start.svg)
 
 ----------------------------------------------------------------------------
 
