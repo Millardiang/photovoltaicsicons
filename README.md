@@ -6,9 +6,9 @@ Wettersymbole siehe / weather symbols see [weathericons](https://github.com/roe-
 
 ### Photovoltaik-Symbole / photovoltaics icons
 
-Photovoltaik / photovoltaics | heiter/fair | Nacht/night
------------------------------|---------------------|---------------------
-![photovoltaics](photovoltaics/photovoltaics.svg) | ![pv with cloud](photovoltaics/photovoltaics-mostly-clear.svg) | ![night](photovoltaics/photovoltaics-night.svg) 
+Photovoltaik / photovoltaics | heiter/fair | bedeckt / overcast | Nacht/night
+-----------------------------|---------------------|---------------------|------------------------
+![photovoltaics](photovoltaics/photovoltaics.svg) | ![pv with cloud](photovoltaics/photovoltaics-mostly-clear.svg) | ![pv cloudy](photovoltaics/photovoltaics-cloudy.svg) | ![night](photovoltaics/photovoltaics-night.svg) 
 
 Solarpanel/pv panel | Batterie/accumulator
 -----------------------------|---------------------
@@ -18,9 +18,9 @@ Solarpanel/pv panel | Batterie/accumulator
 
 ### Photovoltaik-Symbole, gefüllt / photovoltaics icons, filled
 
-Photovoltaik / photovoltaics | heiter/fair | Nacht/night
------------------------------|---------------------|---------------------
-![photovoltaics](photovoltaics-filled/photovoltaics.svg) | ![pv with cloud](photovoltaics-filled/photovoltaics-mostly-clear.svg) | ![night](photovoltaics-filled/photovoltaics-night.svg) 
+Photovoltaik / photovoltaics | heiter/fair | bedeckt / overcast | Nacht/night
+-----------------------------|---------------------|---------------------|--------------------
+![photovoltaics](photovoltaics-filled/photovoltaics.svg) | ![pv with cloud](photovoltaics-filled/photovoltaics-mostly-clear.svg) | ![pv cloudy](photovoltaics-filled/photovoltaics-cloudy.svg) |![night](photovoltaics-filled/photovoltaics-night.svg) 
 
 Solarpanel/pv panel | Batterie/accumulator
 -----------------------------|---------------------
