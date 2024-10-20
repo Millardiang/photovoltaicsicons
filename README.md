@@ -2,6 +2,17 @@
 
 Wettersymbole siehe / weather symbols see [weathericons](https://github.com/roe-dl/weathericons)
 
+## Inhalt / Contents
+
+* [Symbole / symbols and icons](#symbole--symbols-and-icons)
+  * [Photovoltaik-Symbole / photovoltaics icons](#photovoltaik-symbole--photovoltaics-icons)
+  * [Photovoltaik-Symbole, gefüllt / photovoltaics icons, filled](#photovoltaik-symbole-gefüllt--photovoltaics-icons-filled)
+  * [Feuerwehrzeichen Photovoltaik DIN 4066 / Fire safety signs photovoltaics DIN 4066](#feuerwehrzeichen-photovoltaik-din-4066--fire-safety-signs-photovoltaics-din-4066)
+* [Lizenz und Nutzungsrechte](#lizenz-und-nutzungsrechte)
+* [License and Usage](#license-and-usage)
+* [Danksagungen / Credits](#danksagungen--credits)
+* [Links](#links)
+
 ## Symbole / Icons
 
 ### Photovoltaik-Symbole / photovoltaics icons
@@ -66,3 +77,5 @@ exclusion). However, the GPL applies to editing the symbols themselves.
 * [Wettersymbole / weather icons](https://github.com/roe-dl/weathericons)
 * [PV Wöllsdorf](https://www.woellsdorf-wetter.de/photovoltaics/)
 * [WeeWX](https://weewx.com)
+* [WeeWX-Erweiterung PV / WeeWX extension PV](https://github.com/roe-dl/weewx-photovoltaics)
+* Deutscher Feuerwehrverband: [Einsatz an Photovoltaikanlagen](https://www.feuerwehrverband.de/app/uploads/2020/05/BSW_Feuerwehrbroschuere_2010.pdf)
