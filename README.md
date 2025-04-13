@@ -74,6 +74,7 @@ exclusion). However, the GPL applies to editing the symbols themselves.
 
 ## Links
 
+* [ISO7010 W012 Warnschild elektrische Spannung / warning sign high voltage](https://commons.wikimedia.org/wiki/File:ISO_7010_W012.svg)
 * [Wettersymbole / weather icons](https://github.com/roe-dl/weathericons)
 * [PV Wöllsdorf](https://www.woellsdorf-wetter.de/photovoltaics/)
 * [WeeWX](https://weewx.com)
